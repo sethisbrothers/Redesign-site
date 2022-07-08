@@ -10,8 +10,9 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  
+  <link href="assets/img/portfolio/logo.jpg" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon"> -->
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -55,7 +56,7 @@
             <div class="carousel-content animate__animated animate__fadeInUp">
               <h2>Bienvenue A <span>Energy Generation</span></h2>
               <p>Energy Generation est une Organisation panafricaine dont le but premier est d'encourager les jeunes Africains à relever le défi de leur génération.</p>
-              <div class="text-center"><a href="" class="btn-get-started">Lire Plus</a></div>
+              <div class="text-center"><a href="program.php?#team" class="btn-get-started">Lire Plus</a></div>
             </div>
           </div>
         </div>
@@ -136,7 +137,7 @@
         </div>
 
       </div>
-      <div class="text-center"><a href="about.html" class="btn btn-success">A Propos</a></div>
+      <div class="text-center"><a href="program.php?#team" class="btn btn-success">A Propos</a></div>
     </section><!-- End Services Section -->
 
     
@@ -166,10 +167,10 @@ En tant qu'étudiant porteur de projet, vous suivrez une formation diplômante e
 Au sein de nos écoles, les porteurs de projet bénéficient des installations du laboratoire pour développer leur prototype, ainsi que d’un accompagnement personnalisé pour structurer leur projet entrepreneurial.
       </p>
 
-  <div class="row" style="text-align: center; margin-left: 1rem; margin-right: 1rem;">
-    <button style="margin-bottom: 1rem;" type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">La Business & Energy School</button>
-    <button style="margin-bottom: 1rem;" type="button" class="btn btn-outline-secondary" data-mdb-ripple-color="dark">La Business healthcare School</button>
-    <button type="button" class="btn btn-outline-success" data-mdb-ripple-color="dark">La Business  & Agri School</button>
+  <div class="row" style="text-align: center;">
+     <a href="program.php"><button style="margin-bottom: 1rem;" type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">La Business & Energy School</button></a>
+    <a href="program.php"><button style="margin-bottom: 1rem;" type="button" class="btn btn-outline-secondary" data-mdb-ripple-color="dark">La Business healthcare School</button></a>
+    <a href="program.php"><button type="button" class="btn btn-outline-success" data-mdb-ripple-color="dark">La Business  & Agri School</button></a>
   </div>    
 
     </section><!-- End Our Clients Section -->
@@ -199,7 +200,7 @@ Au sein de nos écoles, les porteurs de projet bénéficient des installations d
         Quel que soit votre niveau d'études actuel, la Formation Entrepreneuriat Solaire vous propose un programme sur mesure pour vous garantir une formation répondant parfaitement à vos besoins et à vos projets d'avenir.
       </p>
       <div style="text-align: center; margin-left: 1rem; margin-right: 1rem;">
-        <button type="button" class="btn btn-danger">La Formation Solaire</button>
+        <a href="program.php"><button type="button" class="btn btn-danger">La Formation Solaire</button></a>
       </div>
       
     </section><!-- End Our Clients Section -->
@@ -231,7 +232,7 @@ Au sein de nos écoles, les porteurs de projet bénéficient des installations d
         Afin de soutenir le développement d'un écosystème entrepreneurial international,l'incubateur accueillera des projets issus de l’Academy, mais aussi plusieurs projets de milieux et de pays africains différents.
       </p>
       <div style="text-align: center; margin-left: 1rem; margin-right: 1rem;">
-        <button type="button" class="btn btn-primary">La Formation Solaire</button>
+        <a href="space.php"><button type="button" class="btn btn-primary">Energy Space</button></a>
       </div>
     </section>
     <!-- End Our Clients Section -->
